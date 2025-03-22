@@ -1,4 +1,4 @@
-/* * {
+* {
   margin: 0;
   box-sizing: border-box;
 }
@@ -112,7 +112,7 @@ h1 {
 
 .task button:hover {
   background-color: #c82333;
-} */
+}
 /* General Styles */
 .App {
   text-align: center;
